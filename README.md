@@ -23,8 +23,8 @@ if we enter the wrong username, we will get error.
 
 In this application we used below technolgies:
 
-Angular JS 1.5.1
-Bootstrap 3.3.7
-Express js 4.16.2
+Angular JS 1.5.1, 
+Bootstrap 3.3.7, 
+Express js 4.16.2, 
 Jquery 3.3.1
 
